@@ -17,3 +17,4 @@ Sistema administrativo de petshop
 - Run _docker-compose build_ e _docker-compose up_
 - Acesse a aplicação em http://localhost:3000
 - Acesse o mailcatcher em http://localhost:1080
+- Acesse o sidekiq http://localhost:3000/sidekiq
